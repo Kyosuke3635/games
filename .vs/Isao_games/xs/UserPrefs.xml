@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{FD72C7B2-7411-5624-6171-B291A19E1B16}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/camera_move.cs">
+    <Files>
+      <File FileName="Assets/scripts/target_generation.cs" Line="28" Column="26" />
+      <File FileName="Assets/scripts/wall_move.cs" Line="28" Column="83" />
+      <File FileName="Assets/scripts/camera_move.cs" Line="8" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Isao_games" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="camera_move.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fce11024-fa22-48ab-9368-246f606b9ca6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
